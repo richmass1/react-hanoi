@@ -6,8 +6,8 @@
     "react-scripts": "^5.0.0"
   },
   "main": "/index.js",
-  "homepage": "https://richmass1.github.io/hanoi",
-  "name": "vy6j3f",
+  "homepage": "https://richmass1.github.io/react-hanoi",
+  "name": "reacthanoi1",
   "description": null,
   "version": "0.0.0",
   "scripts": {
