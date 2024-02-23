@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hanoi/static/css/main.44fec9cc.css",
+    "main.js": "/react-hanoi/static/js/main.9681a45f.js",
+    "index.html": "/react-hanoi/index.html",
+    "main.44fec9cc.css.map": "/react-hanoi/static/css/main.44fec9cc.css.map",
+    "main.9681a45f.js.map": "/react-hanoi/static/js/main.9681a45f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fec9cc.css",
+    "static/js/main.9681a45f.js"
+  ]
+}
