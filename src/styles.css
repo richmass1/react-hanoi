@@ -103,3 +103,7 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+#instructions {
+  padding-top: 40px
+}
